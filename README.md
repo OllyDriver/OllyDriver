@@ -1,4 +1,14 @@
-### Hi there 👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/oliver-driver/)
+
+### Hey there 👋
+
+## I'm Olly, a software developer, designer and lover of the outdoors.
+## I've worked as a full-stack dev for 2 years, honing my skills in Node.js, Vue.js, React Native.
+
+
+### How did it all start you ask?
+## My dissertation gave me a lead into what I love. I created a mobile app, using React Native, which helped children with autism learn via a technique called Social Stories.
 
 <!--
 https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1
