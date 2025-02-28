@@ -5,7 +5,7 @@
 ## Hey there 👋
 
 I'm Olly, a software developer, designer and lover of the outdoors.
-I've worked as a full-stack dev for 2 years, honing my skills in Node.js, Vue.js, React Native.
+I've worked as a full-stack dev for 4 years, honing my skills in Node.js, Vue.js, React Native.
 
 
 ### How did it all start you ask?
