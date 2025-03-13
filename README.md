@@ -11,6 +11,13 @@ I've worked as a full-stack dev for 4 years, honing my skills in Node.js, Vue.js
 ### How did it all start you ask?
 My dissertation gave me a lead into what I love. I created a mobile app, using React Native, which helped children with autism learn via a technique called Social Stories.
 
+### What do you do day to day?
+While a full-stack developer, I work mainly within ServiceNow, where I specialise in custom application builds, integrations and portal design. Some of the modules that I work regularly with are:
+- ITSM
+- CSM
+- HRSD
+- SPM
+
 <!--
 https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1
 
